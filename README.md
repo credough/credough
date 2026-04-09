@@ -1,0 +1,74 @@
+<div align="center">
+
+```
+> whoami
+```
+
+# Hey, I'm @credough 👾
+
+**Developer · Data Enthusiast · Open Source Contributor**
+
+*Building reliable systems, one query at a time.*
+
+</div>
+
+---
+
+### 🧰 Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3572A5)
+![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=A8B9CC)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=databricks&logoColor=58a6ff)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=336791)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=for-the-badge&logo=sqlite&logoColor=003B57)
+
+**Tools & DevOps**
+
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+![credough's GitHub Stats](https://github-readme-stats.vercel.app/api?username=credough&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=credough&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=credough&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
+
+</div>
+
+---
+
+### 🌐 Connect with Me
+
+<div align="center">
+
+[![Facebook](https://img.shields.io/badge/Facebook-0d1117?style=for-the-badge&logo=facebook&logoColor=1877F2)](https://facebook.com/credough)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/credough)
+[![X](https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=ffffff)](https://x.com/credough)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=credough&style=flat-square&color=58a6ff&label=profile+views" alt="profile views" />
+</div>
+
+<div align="center">
+
+```
+// thanks for stopping by · stay curious
+```
+
+</div>
