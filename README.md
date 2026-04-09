@@ -4,9 +4,9 @@
 > whoami
 ```
 
-# Hey, I'm @credough 👾
+# Hey, I'm Aaron Creed! 👾
 
-**Developer · Data Enthusiast · Open Source Contributor**
+**Developer · Aspiring Data Plumber · Open Source Contributor**
 
 *Building reliable systems, one query at a time.*
 
@@ -14,7 +14,7 @@
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 
 **Languages**
 
@@ -35,7 +35,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
@@ -49,7 +49,7 @@
 
 ---
 
-### 🌐 Connect with Me
+### Connect with Me
 
 <div align="center">
 
