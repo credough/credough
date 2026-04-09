@@ -6,9 +6,7 @@
 
 # Hey, I'm Aaron Creed! 👾
 
-**Developer · Aspiring Data Plumber · Open Source Contributor**
-
-*Building reliable systems, one query at a time.*
+**Young Passionate Developer · Aspiring Data Plumber · Open Source Contributor**
 
 </div>
 
