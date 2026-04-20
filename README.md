@@ -55,9 +55,9 @@
 
 <div align="center">
 
-[![Facebook](https://img.shields.io/badge/Facebook-0d1117?style=for-the-badge&logo=facebook&logoColor=1877F2)](https://facebook.com/credough)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/credough)
-[![X](https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=ffffff)](https://x.com/credough)
+[![Facebook](https://img.shields.io/badge/Facebook-0d1117?style=for-the-badge&logo=facebook&logoColor=1877F2)](https://www.facebook.com/aaron.celindro.73)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/aaron-creed-celindro-720293358/?skipRedirect=true)
+[![X](https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=ffffff)](https://x.com/aaroncreed39572?s=21)
 
 </div>
 
