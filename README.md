@@ -70,7 +70,7 @@
 <div align="center">
 
 ```
-// thanks for stopping by · stay curious
+// thanks for stopping by · stay curious · 1 Corinthians 16:14
 ```
 
 </div>
