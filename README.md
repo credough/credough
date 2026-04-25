@@ -43,7 +43,7 @@
 ### Certifications
 
 <div align="center">
-  <img src="assets/datacamp_analytics_assoc.png" alt="Certifications" />
+  <img src="assets/datacamp_analytics_assoc.png" alt="Certifications" width="300" />
 </div>
 
 ---
