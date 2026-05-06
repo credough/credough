@@ -1,4 +1,4 @@
-<div align="center">
+
 
 ```
 > whoami
@@ -10,7 +10,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Loves+Building+Things;Aspiring+Data+Analyst/Plumber;Lifelong+Learner&center=true&width=500&height=50&color=9D4EDD&font=Raleway&size=18">
 </p>
 
-</div>
 
 ---
 
