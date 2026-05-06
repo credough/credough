@@ -6,10 +6,8 @@
 
 # Hey, I'm Aaron Creed! 👾
 
-**Young Passionate Developer · Aspiring Data Analyst/Plumber · Loves building cool stuffs**
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Data+Analyst;Building+Data+Projects;Lifelong+Learner&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Loves+Building+Things;Aspiring+Data+Analyst/Plumber;Lifelong+Learner&center=true&width=500&height=50">
 </p>
 
 </div>
