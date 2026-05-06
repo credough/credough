@@ -6,8 +6,8 @@
 
 # Hey, I'm Aaron Creed! 👾
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Loves+Building+Things;Aspiring+Data+Analyst/Plumber;Lifelong+Learner&center=true&width=500&height=50&color=9D4EDD&font=Poppins&size=14">
+<p align="center" style="margin-top: -10px;">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Loves+Building+Things;Aspiring+Data+Analyst/Plumber;Lifelong+Learner&center=true&width=500&height=50&color=9D4EDD&font=Raleway&size=18">
 </p>
 
 </div>
