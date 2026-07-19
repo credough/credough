@@ -1,6 +1,6 @@
 <div align="center">
 
-  ```
+```
 > whoami
 ```
 
@@ -9,6 +9,8 @@
 <p align="center" style="margin-top: -10px;">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Iskolar+ng+Bayan;Loves+Building+Things;Lifelong+Learner&center=true&width=500&height=50&color=9D4EDD&font=Raleway&size=20">
 </p>
+
+<img src="assets/credough-ascii.svg" alt="terminal portrait" width="500" />
 
 </div>
 
@@ -58,10 +60,7 @@
 ### GitHub Stats
 
 <div align="center">
-
-
-![GitHub Streak](https://streak-stats.demolab.com?user=credough&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
-
+  <img src="https://streak-stats.demolab.com?user=credough&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
 </div>
 
 ---
