@@ -49,7 +49,7 @@
       <img src="assets/credough-ascii.svg" alt="terminal portrait" width="380" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-stats-extended.vercel.app/api?username=credough&show_icons=true&theme=github-dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" width="380" />
+      <img src="https://github-stats-extended.vercel.app/api?username=credough&show_icons=true&theme=github-dark&hide_border=true&bg_color=0d1117&title_color=9D4EDD&icon_color=9D4EDD&text_color=c9d1d9" alt="GitHub Stats" width="380" />
     </td>
   </tr>
 </table>
@@ -71,7 +71,7 @@
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=credough&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=credough&theme=github-dark-blue&hide_border=true&background=0d1117&ring=9D4EDD&fire=9D4EDD&currStreakLabel=9D4EDD" alt="GitHub Streak" />
 </div>
 
 ---
