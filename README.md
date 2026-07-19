@@ -10,7 +10,16 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Iskolar+ng+Bayan;Loves+Building+Things;Lifelong+Learner&center=true&width=500&height=50&color=9D4EDD&font=Raleway&size=20">
 </p>
 
-<img src="assets/credough-ascii.svg" alt="terminal portrait" width="500" />
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="assets/credough-ascii.svg" alt="terminal portrait" width="380" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=credough&show_icons=true&theme=github-dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" width="380" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
