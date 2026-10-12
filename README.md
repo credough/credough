@@ -33,6 +33,14 @@
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
 
+**Cloud**
+
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![EC2](https://img.shields.io/badge/EC2-0d1117?style=for-the-badge&logo=amazonec2&logoColor=FF9900)
+![S3](https://img.shields.io/badge/S3-0d1117?style=for-the-badge&logo=amazons3&logoColor=569A31)
+![RDS](https://img.shields.io/badge/RDS-0d1117?style=for-the-badge&logo=amazonrds&logoColor=527FFF)
+![Lambda](https://img.shields.io/badge/Lambda-0d1117?style=for-the-badge&logo=awslambda&logoColor=FF9900)
+
 **Data & Visualization**
 
 ![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=150458)
