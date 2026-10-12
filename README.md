@@ -35,14 +35,7 @@
 
 **Cloud**
 
-<div align="center">
-  <img src="https://custom-icon-badges.demolab.com/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="AWS" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Amazon_EC2-232F3E?style=for-the-badge&logo=aws-ec2&logoColor=FF9900" alt="EC2" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Amazon_S3-232F3E?style=for-the-badge&logo=aws-s3&logoColor=569A31" alt="S3" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Amazon_RDS-232F3E?style=for-the-badge&logo=aws-rds&logoColor=527FFF" alt="RDS" />
-  <img src="https://custom-icon-badges.demolab.com/badge/AWS_Lambda-232F3E?style=for-the-badge&logo=aws-lambda&logoColor=FF9900" alt="Lambda" />
-</div>
-
+<img src="https://custom-icon-badges.demolab.com/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="AWS" /> <img src="https://custom-icon-badges.demolab.com/badge/Amazon_EC2-232F3E?style=for-the-badge&logo=aws-ec2&logoColor=FF9900" alt="EC2" /> <img src="https://custom-icon-badges.demolab.com/badge/Amazon_S3-232F3E?style=for-the-badge&logo=aws-s3&logoColor=569A31" alt="S3" /> <img src="https://custom-icon-badges.demolab.com/badge/Amazon_RDS-232F3E?style=for-the-badge&logo=aws-rds&logoColor=527FFF" alt="RDS" /> <img src="https://custom-icon-badges.demolab.com/badge/AWS_Lambda-232F3E?style=for-the-badge&logo=aws-lambda&logoColor=FF9900" alt="Lambda" />
 **Data & Visualization**
 
 ![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=150458)
