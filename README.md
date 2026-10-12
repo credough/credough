@@ -35,8 +35,6 @@
 
 **Cloud**
 
-**Cloud**
-
 <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/48/Arch_Amazon-EC2_48.svg" alt="EC2" height="40" /> <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/48/Arch_Amazon-S3_48.svg" alt="S3" height="40" /> <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/48/Arch_Amazon-RDS_48.svg" alt="RDS" height="40" /> <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/48/Arch_AWS-Lambda_48.svg" alt="Lambda" height="40" />
 
 **Data & Visualization**
