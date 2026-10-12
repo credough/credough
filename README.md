@@ -35,14 +35,23 @@
 
 **Cloud**
 
-<img src="https://custom-icon-badges.demolab.com/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="AWS" /> <img src="https://custom-icon-badges.demolab.com/badge/Amazon_EC2-232F3E?style=for-the-badge&logo=aws-ec2&logoColor=FF9900" alt="EC2" /> <img src="https://custom-icon-badges.demolab.com/badge/Amazon_S3-232F3E?style=for-the-badge&logo=aws-s3&logoColor=569A31" alt="S3" /> <img src="https://custom-icon-badges.demolab.com/badge/Amazon_RDS-232F3E?style=for-the-badge&logo=aws-rds&logoColor=527FFF" alt="RDS" /> <img src="https://custom-icon-badges.demolab.com/badge/AWS_Lambda-232F3E?style=for-the-badge&logo=aws-lambda&logoColor=FF9900" alt="Lambda" />
+<p>
+  <img src="https://custom-icon-badges.demolab.com/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="AWS" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Amazon_EC2-232F3E?style=for-the-badge&logo=aws-ec2&logoColor=FF9900" alt="EC2" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Amazon_S3-232F3E?style=for-the-badge&logo=aws-s3&logoColor=569A31" alt="S3" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Amazon_RDS-232F3E?style=for-the-badge&logo=aws-rds&logoColor=527FFF" alt="RDS" />
+  <img src="https://custom-icon-badges.demolab.com/badge/AWS_Lambda-232F3E?style=for-the-badge&logo=aws-lambda&logoColor=FF9900" alt="Lambda" />
+</p>
+
 **Data & Visualization**
 
-![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=150458)
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=013243)
-![Plotly](https://img.shields.io/badge/Plotly-0d1117?style=for-the-badge&logo=plotly&logoColor=3F4F75)
-![Streamlit](https://img.shields.io/badge/Streamlit-0d1117?style=for-the-badge&logo=streamlit&logoColor=FF4B4B)
-![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=F37626)
+<p>
+  ![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=150458)
+  ![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=013243)
+  ![Plotly](https://img.shields.io/badge/Plotly-0d1117?style=for-the-badge&logo=plotly&logoColor=3F4F75)
+  ![Streamlit](https://img.shields.io/badge/Streamlit-0d1117?style=for-the-badge&logo=streamlit&logoColor=FF4B4B)
+  ![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=F37626)
+</p>
 
 ---
 <div align="center">
