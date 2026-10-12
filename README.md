@@ -35,7 +35,7 @@
 
 **Cloud**
 
-<img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/48/Arch_Amazon-AWS_48.svg" alt="AWS" height="28" /> <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/48/Arch_Amazon-EC2_48.svg" alt="EC2" height="28" /> <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/48/Arch_Amazon-S3_48.svg" alt="S3" height="28" /> <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/48/Arch_Amazon-RDS_48.svg" alt="RDS" height="28" /> <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/48/Arch_AWS-Lambda_48.svg" alt="Lambda" height="28" />
+<img src="https://custom-icon-badges.demolab.com/badge/AWS-0d1117?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="AWS" /> <img src="https://custom-icon-badges.demolab.com/badge/EC2-0d1117?style=for-the-badge&logo=aws-ec2&logoColor=FF9900" alt="EC2" /> <img src="https://custom-icon-badges.demolab.com/badge/S3-0d1117?style=for-the-badge&logo=aws-s3&logoColor=569A31" alt="S3" /> <img src="https://custom-icon-badges.demolab.com/badge/RDS-0d1117?style=for-the-badge&logo=aws-rds&logoColor=527FFF" alt="RDS" /> <img src="https://custom-icon-badges.demolab.com/badge/Lambda-0d1117?style=for-the-badge&logo=aws-lambda&logoColor=FF9900" alt="Lambda" />
 
 **Data & Visualization**
 
