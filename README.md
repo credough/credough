@@ -35,7 +35,7 @@
 
 **Cloud**
 
-![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![AWS](https://img.shields.io/badge/Amazon_AWS-0d1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 ![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-0d1117?style=for-the-badge&logo=amazonec2&logoColor=FF9900)
 ![Amazon S3](https://img.shields.io/badge/Amazon_S3-0d1117?style=for-the-badge&logo=amazons3&logoColor=569A31)
 ![Amazon RDS](https://img.shields.io/badge/Amazon_RDS-0d1117?style=for-the-badge&logo=amazonrds&logoColor=527FFF)
