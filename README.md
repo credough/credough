@@ -35,7 +35,7 @@
 
 **Cloud**
 
-<img src="https://custom-icon-badges.demolab.com/badge/Amazon_AWS-0d1117?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="AWS" /> <img src="https://custom-icon-badges.demolab.com/badge/Amazon_EC2-0d1117?style=for-the-badge&logo=aws-ec2&logoColor=FF9900" alt="EC2" /> <img src="https://custom-icon-badges.demolab.com/badge/Amazon_S3-0d1117?style=for-the-badge&logo=aws-s3&logoColor=569A31" alt="S3" /> <img src="https://custom-icon-badges.demolab.com/badge/Amazon_RDS-0d1117?style=for-the-badge&logo=aws-rds&logoColor=527FFF" alt="RDS" /> <img src="https://custom-icon-badges.demolab.com/badge/AWS_Lambda-0d1117?style=for-the-badge&logo=aws-lambda&logoColor=FF9900" alt="Lambda" />
+<img src="https://custom-icon-badges.demolab.com/badge/AWS-0d1117?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="AWS" /> <img src="https://custom-icon-badges.demolab.com/badge/EC2-0d1117?style=for-the-badge&logo=aws-ec2&logoColor=FF9900" alt="EC2" /> <img src="https://custom-icon-badges.demolab.com/badge/S3-0d1117?style=for-the-badge&logo=aws-s3&logoColor=569A31" alt="S3" /> <img src="https://custom-icon-badges.demolab.com/badge/RDS-0d1117?style=for-the-badge&logo=aws-rds&logoColor=527FFF" alt="RDS" /> <img src="https://custom-icon-badges.demolab.com/badge/Lambda-0d1117?style=for-the-badge&logo=aws-lambda&logoColor=FF9900" alt="Lambda" />
 
 **Data & Visualization**
 
