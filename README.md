@@ -35,7 +35,11 @@
 
 **Cloud**
 
-<img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/48/Arch_Amazon-EC2_48.svg" alt="EC2" height="40" /> <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/48/Arch_Amazon-S3_48.svg" alt="S3" height="40" /> <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/48/Arch_Amazon-RDS_48.svg" alt="RDS" height="40" /> <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/48/Arch_AWS-Lambda_48.svg" alt="Lambda" height="40" />
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-0d1117?style=for-the-badge&logo=amazonec2&logoColor=FF9900)
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-0d1117?style=for-the-badge&logo=amazons3&logoColor=569A31)
+![Amazon RDS](https://img.shields.io/badge/Amazon_RDS-0d1117?style=for-the-badge&logo=amazonrds&logoColor=527FFF)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-0d1117?style=for-the-badge&logo=awslambda&logoColor=FF9900)
 
 **Data & Visualization**
 
