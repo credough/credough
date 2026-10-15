@@ -6,7 +6,7 @@
 
 # Hey, I'm Aaron Creed! 👾
 
-<p align="center" style="margin-top: -11px;">
+<p align="center" style="margin-top: -10px;">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Iskolar+ng+Bayan;Loves+Building+Things;Lifelong+Learner&center=true&width=500&height=50&color=9D4EDD&font=Raleway&size=20">
 </p>
 
@@ -54,6 +54,15 @@
   </tr>
 </table>
 </div>
+---
+
+### Experience
+
+* Data & Impact Intern (Senior Mission Specialist) @ KadaKareer
+* Cloud & Data Infrastructure Department Lead @ AWS Student Builder Group PUP
+* Data Engineering Associate @ AWS Student Builder Group PUP
+* Data Engineering Fellow @ Data Engineering Pilipinas
+* Data Modeling Intern @ Eskwelabs
 ---
 
 ### Certifications
