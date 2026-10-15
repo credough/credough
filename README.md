@@ -6,7 +6,7 @@
 
 # Hey, I'm Aaron Creed! 👾
 
-<p align="center" style="margin-top: -10px;">
+<p align="center" style="margin-top: -11px;">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Iskolar+ng+Bayan;Loves+Building+Things;Lifelong+Learner&center=true&width=500&height=50&color=9D4EDD&font=Raleway&size=20">
 </p>
 
