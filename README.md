@@ -62,7 +62,6 @@
 * Data & Impact Intern (Senior Mission Specialist) @ KadaKareer
 * Cloud & Data Infrastructure Department Lead @ AWS Student Builder Group PUP
 * Data Engineering Fellow @ Data Engineering Pilipinas
-* Data Modeling Intern @ Eskwelabs
 ---
 
 ### Certifications
